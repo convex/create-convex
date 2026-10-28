@@ -177,7 +177,7 @@ async function init() {
     ? givenTemplate.includes("#")
       ? givenTemplate
       : givenTemplate + "#main"
-    : `get-convex/template-${givenTemplate}#main`;
+    : `convex/template-${givenTemplate}#main`;
 
   console.log(`\nSetting up...`);
 
