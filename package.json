@@ -4,7 +4,7 @@
   "type": "module",
   "license": "Apache-2.0",
   "author": "Convex, Inc. <team@convex.dev>",
-  "repository": "https://github.com/get-convex/create-convex",
+  "repository": "https://github.com/convex/create-convex",
   "homepage": "https://convex.dev",
   "bin": {
     "create-convex": "index.js"
